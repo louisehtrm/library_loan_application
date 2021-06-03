@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyLibrary</string>
+    <string name="author">author of the book</string>
+    <string name="title">Title of the book</string>
+    <string name="genre">Genre of the book</string>
+    <string name="available">Not Available</string>
+    <string name="no_book">You haven\'t loaned any books</string>
+    <string name="no_favorite">You havn\'t any book in favorite</string>
+    <string name="library_title">THE LIBRARY</string>
+    <string name="loan_title">BOOK LOANS</string>
+    <string name="return_title">MY BOOKS</string>
+    <string name="fav_title">FAVORITES</string>
+</resources>
